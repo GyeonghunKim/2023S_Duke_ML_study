@@ -1,0 +1,17 @@
+name: ml-study-2023S
+
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - pytorch
